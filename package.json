@@ -1,7 +1,7 @@
 {
   "name": "gems-haven-server",
   "version": "1.0.0",
-  "description": "Gems Haven Cooperative Society Backend",
+  "description": "Two Hands Cooperative Society Backend",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
